@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 57f81fca128a8104291e65daf912fde3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pervitina Dex
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7b4071127e2bbac458070a4f79a2936b, type: 3}
+  - {fileID: 12800000, guid: 6541a66e9e9652746af4e1952e2bf890, type: 3}
+  - {fileID: 12800000, guid: feed44831e61d794584a0c127e12566b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

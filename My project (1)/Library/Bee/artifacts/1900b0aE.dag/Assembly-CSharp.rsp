@@ -351,12 +351,17 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/MeshCombiner/Scripts/MeshCombiner.cs"
 "Assets/Scripts/Camera_Controller.cs"
+"Assets/Scripts/Counter.cs"
+"Assets/Scripts/GameManager.cs"
+"Assets/Scripts/GameOver.cs"
+"Assets/Scripts/MainMenu.cs"
+"Assets/Scripts/PauseMenu.cs"
 "Assets/Scripts/PlayerMove.cs"
+"Assets/Scripts/RingActive.cs"
 "Assets/Scripts/Rotate.cs"
-"Assets/Supercyan Character Pack Free Sample/Scripts/DemoFree.cs"
-"Assets/Supercyan Character Pack Free Sample/Scripts/FreeCameraLogic.cs"
-"Assets/Supercyan Character Pack Free Sample/Scripts/SimpleSampleCharacterControl.cs"
+"Assets/Scripts/StatikClass.cs"
 -langversion:9.0
 
 /deterministic
